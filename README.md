@@ -38,7 +38,7 @@ LLMs rely only on static pretrained data, which limits their ability to answer r
 
 1. **Install dependencies**
    ```bash
-   npm install
+   bun install
    ```
 
 2. **Set up your API key**
@@ -47,6 +47,5 @@ LLMs rely only on static pretrained data, which limits their ability to answer r
 
 3. **Run it**
    ```bash
-   tsc -b
-   node .\dist\index.js 
+   bun run dev
    ```
