@@ -15,7 +15,7 @@ For example, you can ask it: *"Add 6 and 8, then multiply that by 5, and divide 
 ## Why is it needed?
 
 <img width="1428" height="667" alt="489120720-d2758467-9c66-4b1a-aa97-8e36d059342f" src="https://github.com/user-attachments/assets/b3a5d936-4790-41ab-af83-e7c71290c9e8" />
-" />
+
 
 LLMs rely only on static pretrained data, which limits their ability to answer realtime or external queries (e.g., today’s date)
 
@@ -23,7 +23,7 @@ LLMs rely only on static pretrained data, which limits their ability to answer r
 ## Architecture
 
 <img width="1396" height="717" alt="489120856-18c56ca0-0aaf-4e67-a66d-1c525d2e11a9" src="https://github.com/user-attachments/assets/1db07e18-00c8-4c7f-834b-f15a52ee8960" />
-" />
+
 
 
 
